@@ -1,6 +1,6 @@
 # DyHATR
 
-This is the source code for ECML-PKDD 2020 paper ["Modeling Dynamic Heterogeneous Network forLink Prediction using Hierarchical Attentionwith Temporal RNN"](https://arxiv.org/abs/2004.01024).
+This is the source code for ECML-PKDD 2020 paper ["Modeling Dynamic Heterogeneous Network for Link Prediction using Hierarchical Attention with Temporal RNN"](https://arxiv.org/abs/2004.01024).
 
 
 All readers are welcome to star/fork this repository and use it to reproduce our experiments or train your own data. Please kindly cite our paper:
