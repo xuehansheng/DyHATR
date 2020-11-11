@@ -26,9 +26,9 @@ tensorflow == 1.14
 In this resposity, we provide EComm dataset as an example, you can also download all the other datasets from the SNAP platform ([Twitter](http://snap.stanford.edu/data/higgs-twitter.html), and [Math-Overflow](http://snap.stanford.edu/data/sx-mathoverflow.html)). Besides, you can also use your own Dynamic Heterogeneous Networks dateset, as long as it fits the following template.
 ```
 Node_one	Node_two	Edge_type	Timestamp
-  n1		  n2		  e1			1
-  n1		  n2		  e2			2
-  n1		  n3		  e2			2
+  n1		  n2		  e1		1
+  n1		  n2		  e2		2
+  n1		  n3		  e2		2
   .
   .
 ```
