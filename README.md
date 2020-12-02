@@ -8,8 +8,8 @@ All readers are welcome to star/fork this repository and use it to reproduce our
 @inproceedings{Xue2020DyHATR,
   title     = {Modeling Dynamic Heterogeneous Network forLink Prediction using Hierarchical Attentionwith Temporal RNN},
   author    = {Xue, Hansheng and Yang, Luwei and Jiang, Wen and Wei, Yi and Hu, Yi and Lin, Yu},
-  booktitle = {Proceedings of the 2020 European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD)},
-  year      = {2020},
+  booktitle = {ECML-PKDD},
+  year      = {2020}
 }
 ```
 
