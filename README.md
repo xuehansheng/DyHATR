@@ -4,7 +4,7 @@ This is the source code for ECML-PKDD 2020 paper ["Modeling Dynamic Heterogeneou
 
 ## Overview
 ![image](DyHATR.png)
-The novel dynamic heterogeneous network embedding method, termed as **DyHATR**, which uses hierarchical attention to learn heterogeneous information and incorporates recurrent neural networks with temporal attention to capture evolutionary patterns. 
+The novel dynamic heterogeneous network embedding method, termed as **DyHATR**, which uses hierarchical attention (HAT) to learn heterogeneous information and incorporates recurrent neural networks with temporal attention (Temporal Attentive RNN) to capture evolutionary patterns. 
 
 ## Requirement
 ```
