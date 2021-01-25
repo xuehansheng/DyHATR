@@ -2,16 +2,9 @@
 
 This is the source code for ECML-PKDD 2020 paper ["Modeling Dynamic Heterogeneous Network for Link Prediction using Hierarchical Attention with Temporal RNN"](https://arxiv.org/abs/2004.01024).
 
-
-All readers are welcome to star/fork this repository and use it to reproduce our experiments or train your own data. Please kindly cite our paper:
-```
-@inproceedings{Xue2020DyHATR,
-  title     = {Modeling Dynamic Heterogeneous Network forLink Prediction using Hierarchical Attentionwith Temporal RNN},
-  author    = {Xue, Hansheng and Yang, Luwei and Jiang, Wen and Wei, Yi and Hu, Yi and Lin, Yu},
-  booktitle = {ECML-PKDD},
-  year      = {2020}
-}
-```
+## Overview
+![image](DyHATR.png)
+The novel dynamic heterogeneous network embedding method, termed as **DyHATR**, which uses hierarchicalattention to learn heterogeneous information and incorporates recurrent neural networks with temporal attention to capture evolutionary patterns. 
 
 ## Requirement
 ```
@@ -37,6 +30,17 @@ Node_one	Node_two	Edge_type	Timestamp
 To reproduce the experiments on EComm dataset, simply run:
 ```
 python3 src/main.py
+```
+
+## Reference
+All readers are welcome to star/fork this repository and use it to reproduce our experiments or train your own data. Please kindly cite our paper:
+```
+@inproceedings{Xue2020DyHATR,
+  title     = {Modeling Dynamic Heterogeneous Network forLink Prediction using Hierarchical Attentionwith Temporal RNN},
+  author    = {Xue, Hansheng and Yang, Luwei and Jiang, Wen and Wei, Yi and Hu, Yi and Lin, Yu},
+  booktitle = {ECML-PKDD},
+  year      = {2020}
+}
 ```
 
 
